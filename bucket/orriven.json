@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/orriven/cli/releases/download/v0.1.0/orriven_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/orriven/cli/releases/download/v0.1.1/orriven_0.1.1_windows_amd64.zip",
             "bin": [
                 "orriven.exe"
             ],
-            "hash": "1cbaa5ce0c83457283a9217d7c8110d0d6a4fbd6ae8ee59e418e45edd30fb379"
+            "hash": "e0b803a19aa4e48753f252c5061efb35b26929dcd5e776077f40281db864d691"
         },
         "arm64": {
-            "url": "https://github.com/orriven/cli/releases/download/v0.1.0/orriven_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/orriven/cli/releases/download/v0.1.1/orriven_0.1.1_windows_arm64.zip",
             "bin": [
                 "orriven.exe"
             ],
-            "hash": "3c513d25fb03a0991f3e12d21d0c2786279912be085748016fdc0a5c49ff2fe1"
+            "hash": "63d8fec0b0f4bffe2ef7a7953545fea139d7e0ed8e3abd692acdb3d33c81e490"
         }
     },
     "homepage": "https://orriven.com",
